@@ -2,5 +2,5 @@
 
 
 
-🌱 Estoy construyendo mi futuro como Fullstack developer. 
+🌱 Construyendo mi futuro como Fullstack developer. 
 
